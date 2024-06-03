@@ -1,0 +1,3 @@
+# linker change for Windows target
+[target.x86_64-pc-windows-msvc]
+linker = "rust-lld.exe"
